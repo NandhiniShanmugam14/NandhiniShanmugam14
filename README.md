@@ -1,8 +1,13 @@
-<h2 align="left">👋 Hey there, I'm Nandhini – Fullstack Developer</h2>
+<h2 align="left">👋 Hey there, I'm Nandhini</h2>
+
+###
+
+<p align="left">💻 Full Stack Developer with a frontend focus (React, TypeScript, HTML/CSS)<br>🎨 Passionate about building clean, responsive UI/UX<br>⚙️ Basic backend skill with .NET<br>🛠️ Familiar with Redux, Tailwind, styled-components, and API integration<br>🚀 Always learning and exploring new tech to improve my craft</p>
 
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NandhiniShanmugam14&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NandhiniShanmugam14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -42,6 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
 ###
@@ -57,7 +64,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NandhiniShanmugam14.NandhiniShanmugam14&left_color=cornflowerblue&right_color=palevioletred"  />
 </div>
 
